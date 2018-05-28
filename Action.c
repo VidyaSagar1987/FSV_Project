@@ -1039,8 +1039,8 @@ Action()
 							"<AfmPrevIncidentNo>4</AfmPrevIncidentNo>"
 							"<MostSeriousIncCd>1</MostSeriousIncCd>"    
 							"<ExistingIntOrdsCd>1</ExistingIntOrdsCd>"
-							"<ReportTypeCode>FV</ReportTypeCode>"    
-							"<ReferralAction></ReferralAction>"
+							//"<ReportTypeCode>FV</ReportTypeCode>"    
+							//"<ReferralAction></ReferralAction>"
 						"</ReportDetail>"
 					"</ChildReferral>"
 LAST);
